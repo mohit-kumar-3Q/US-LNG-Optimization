@@ -54,16 +54,6 @@ This project builds a linear programming-based optimization model to **maximize 
 
 ---
 
-## 📂 File Structure  
-```
-📁 US-LNG-Optimization/
-├── US_LNG_Optimization_Model_2019_2024.ipynb     # Main Notebook
-├── README.md                                     # Project Overview
-├── 📁 data/                                      # Raw and cleaned datasets (not included here)
-```
-
----
-
 ## 📌 How to Use
 1. Load the notebook in **Jupyter** or **nbviewer**  
 2. Ensure you have the `PuLP`, `pandas`, `matplotlib`, and `seaborn` libraries  
@@ -74,5 +64,5 @@ This project builds a linear programming-based optimization model to **maximize 
 
 ## 📬 Contact / Collaboration  
 If you're a recruiter, energy quant, or hiring manager — feel free to connect:  
-**📧 Email:** mohit.kumar@example.com  
+**📧 Email:** mohitkr.ds@gmail.com  
 **🔗 GitHub:** [@mohit-kumar-3Q](https://github.com/mohit-kumar-3Q)
