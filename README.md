@@ -64,5 +64,5 @@ This project builds a linear programming-based optimization model to **maximize 
 
 ## 📬 Contact / Collaboration  
 If you're a recruiter, energy quant, or hiring manager — feel free to connect:  
-**📧 Email:** mohitkr.ds@gmail.com  
+**📧 Email:** mohitkr.h@gmail.com  
 **🔗 GitHub:** [@mohit-kumar-3Q](https://github.com/mohit-kumar-3Q)
